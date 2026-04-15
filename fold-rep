@@ -1,0 +1,2 @@
+cd bitcoin  # Entra a la carpeta del repo
+./contrib/install_db4.sh `pwd`
